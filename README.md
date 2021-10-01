@@ -1,2 +1,2 @@
 # loreannysantos-LearningGitHub
-versión de desarrollo, añadiendo cositias
+versión de desarrollo 2, añadiendo cositias
